@@ -10,7 +10,7 @@ setup(
     name="wiuppy",
     version="0.0.1",
     author="ellotheth",
-    description="The core API tools & utilities for all FK applications.",
+    description="Where's It Up Python API bindings.",
     packages=find_packages(),
     long_description=__doc__,
     zip_safe=False,
